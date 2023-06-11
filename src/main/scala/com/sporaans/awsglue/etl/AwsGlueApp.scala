@@ -1,4 +1,4 @@
-package com.oneflow.de
+package com.sporaans.awsglue.etl
 
 import com.amazonaws.services.glue.{GlueContext, JsonOptions}
 import org.apache.spark.sql.SparkSession
